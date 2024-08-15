@@ -20,7 +20,7 @@ Our contributions are summarized as follows:
 
 2.  To assess the quality of the generated papers, we introduce a foundation model-based reviewing process in Section  4 . This process achieves near-human-level performance across multiple evalu- ation metrics (e.g. $65\%$  vs.  $66\%$  balanced accuracy) when evaluated on ICLR 2022 OpenReview data. The reviews further enable The AI Scientist to select the best ideas for “publication”  
 
-![](https://arxivgpt.s3.amazonaws.com/04a780fa2681e99a041d4dc03b01ded1dae49e81d34881d687b5cdffebea779d.jpg)  
+![test](https://arxivgpt.s3.amazonaws.com/04a780fa2681e99a041d4dc03b01ded1dae49e81d34881d687b5cdffebea779d.jpg)  
 
 to an ever-growing archive of scientific discoveries, and the process can be repeated to build on these discoveries, just as in the human scientific community. 3.  The AI Scientist can generate hundreds of interesting, medium-quality papers over the course of a week. In this report, we focus on a subset of these papers, highlighting novel insights in diffusion modeling, language modeling, and grokking. We perform an in-depth case study into one selected paper in Section  5 , and present aggregate results in Section  6 . 4.  We conclude the paper with an extensive discussion on the limitations, ethical considerations, and future outlook of our approach in Sections  8  and  9 .  
 
